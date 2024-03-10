@@ -172,8 +172,16 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   * Tools: Jira BR
   
 ### Checklists
-* I have prepared a checklist for testing the web application https://mediamarkt.pl/ at the acceptance testing level.[in Polish](https://docs.google.com/spreadsheets/d/1NUjo5cU3ndR1Z3blTsVT2tkI18NyHJYm/edit?usp=sharing&ouid=108234753280981460690&rtpof=true&sd=true)
-* I have prepared a checklist for preliminary testing (smoke test) of the Slack program.[in Polish](https://docs.google.com/spreadsheets/d/1Kf3w4KYUXwfZZzq-LDjviMsdPUkoEbsS/edit?usp=sharing&ouid=108234753280981460690&rtpof=true&sd=true)
+
+- My task: I have prepared a checklist for testing the web application Media Markt at the acceptance testing level.
+  * Test application: [Media Markt](https://mediamarkt.pl/)
+  * Results: [in Polish](https://docs.google.com/spreadsheets/d/1NUjo5cU3ndR1Z3blTsVT2tkI18NyHJYm/edit?usp=sharing&ouid=108234753280981460690&rtpof=true&sd=true)
+  * Tools: Checklist template developed in Excel
+
+- My task: I have prepared a checklist for preliminary testing (smoke test) of the Slack program.
+  * Test application: [Slack](https://slack.com/)
+  * Results: [in Polish](https://docs.google.com/spreadsheets/d/1Kf3w4KYUXwfZZzq-LDjviMsdPUkoEbsS/edit?usp=sharing&ouid=108234753280981460690&rtpof=true&sd=true)
+  * Tools: Checklist template developed in Excel
 
 ### JSON and XML
 * Every person has their unique id, name, place of residence, address (street, building, and apartment number), and contact details (phone number, email address, etc.). I described the information about these people in JSON and XML format.[JSON and XML](https://drive.google.com/drive/folders/1ttn_DF3if6mZBo9kYAdDqlZK-6FRTlji)
