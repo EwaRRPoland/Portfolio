@@ -156,12 +156,21 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   
 ### Qase TC and work in Jira BR
 
-- [Educational page ‘HTML testing’](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917) I created 5 test cases in Qase and 5 bug reports in Jira [5 TC Qase and  5 BR Jira](https://drive.google.com/drive/folders/1Zc-vCD0QbfAqyuwVcJGxSWL-sOar4jBd)
+- My task: I created 5 test cases in Qase and 5 bug reports in Jira.
+  * Test application: [Educational page ‘HTML testing’](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917)
+  * Results: [5 TC Qase and  5 BR Jira](https://drive.google.com/drive/folders/1Zc-vCD0QbfAqyuwVcJGxSWL-sOar4jBd)
+  * Tools: TC Qase and BR Jira
 
-- [Mobile tests of the TODO educational application](https://drive.google.com/file/d/1Qzakcm1yWyP7RzZSWEDvseWiItmJBbB4/view) I conducted tests of the educational mobile application TODO and created 5 error reports for the identified defects in Jira [5 BR Jira in English](https://drive.google.com/drive/folders/1pxUVlbLWlyPHrW2L5VjOOpQJNlNRFMqT)
+- My task: Mobile tests of the TODO educational application. I conducted tests of the educational mobile application TODO and created 5 error reports for the identified defects in Jira.
+  * Test application: [The TODO educational application](https://drive.google.com/file/d/1Qzakcm1yWyP7RzZSWEDvseWiItmJBbB4/view)
+  * Results: [5 BR Jira in English](https://drive.google.com/drive/folders/1pxUVlbLWlyPHrW2L5VjOOpQJNlNRFMqT)
+  * Tools: Jira BR
+ 
+- My task: An example of a project in Jira.
+  * Test application: Exploring the possibilities of [Jira](https://www.atlassian.com/pl/software/jira)
+  * Results: Check [the screenshot](https://drive.google.com/drive/folders/1_SbLX67SVAzrj4Z87iYJ-q66G5n5mt2i?usp=sharing).
+  * Tools: Jira BR
   
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/drive/folders/1_SbLX67SVAzrj4Z87iYJ-q66G5n5mt2i?usp=sharing).
-
 ### Checklists
 * I have prepared a checklist for testing the web application https://mediamarkt.pl/ at the acceptance testing level.[in Polish](https://docs.google.com/spreadsheets/d/1NUjo5cU3ndR1Z3blTsVT2tkI18NyHJYm/edit?usp=sharing&ouid=108234753280981460690&rtpof=true&sd=true)
 * I have prepared a checklist for preliminary testing (smoke test) of the Slack program.[in Polish](https://docs.google.com/spreadsheets/d/1Kf3w4KYUXwfZZzq-LDjviMsdPUkoEbsS/edit?usp=sharing&ouid=108234753280981460690&rtpof=true&sd=true)
