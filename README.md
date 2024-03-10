@@ -144,8 +144,8 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   * Results: Bug Reports (in Polish). Check [the Google Sheets document here](https://drive.google.com/drive/folders/1nb9URleP31nrxdOi0Dae-v9ijmR8ELdV?usp=sharing)
   * Tools: BR template developed in Excel
 
- - My task: I have prepared 5 positive and 7 negative test cases for testing the functionality of the program for the web version of banking (iPKO).
-* Test application: [iPKO](https://www.ipko.pl/secure/ikd3/login.html)
+- My task: I have prepared 5 positive and 7 negative test cases for testing the functionality of the program for the web version of banking (iPKO).
+  * Test application: [iPKO](https://www.ipko.pl/secure/ikd3/login.html)
   * Results: [5 positive and 7 negative test cases in Polish](https://drive.google.com/drive/folders/1ZXMI7T-K-FIYOztx8uU49kmPtShmP52T?usp=sharing) 
   * Tools: TestRail - TC
 
