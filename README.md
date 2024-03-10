@@ -134,6 +134,11 @@ I gained knowledge in the field of computer hardware, operating systems, electro
 
 ### TC BR and work in TestRail
 
+- My task: After I have reviewed the software documentation in the ‘Components and functionality’ tab, I have tested the product according to the written test cases.
+  * Test application:[Educational page ‘HTML testing’](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917) , [Components and functionality](https://faq-qa.m.goit.global/pl/)
+  * Results:Test Cases and Bug Reports (in Polish). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rJ4j-kHuMHlfMXFUfsmyj3cayGRgf4ia/edit#gid=911561121)
+  * Tools: TC and BR template developed in Excel
+
 - [Educational page ‘HTML testing’](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917) After I have reviewed the software documentation in the ‘Components and functionality’ tab, I have tested the product according to the written test cases. [Components and functionality](https://faq-qa.m.goit.global/pl/)
   * Test Cases and Bug Reports (in Polish). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rJ4j-kHuMHlfMXFUfsmyj3cayGRgf4ia/edit#gid=911561121)
  
