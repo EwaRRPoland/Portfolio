@@ -144,16 +144,11 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   * Results: Bug Reports (in Polish). Check [the Google Sheets document here](https://drive.google.com/drive/folders/1nb9URleP31nrxdOi0Dae-v9ijmR8ELdV?usp=sharing)
   * Tools: BR template developed in Excel
 
- - My task: System Level Testing of the e-learning platform, using a requirements-based approach. I used the TestRail program.
-  * Test application: The e-learning platform on LMS [Requirements-based approach](https://docs.google.com/document/d/1bBLOr4IYgyiBJ2oxmcGzSq6Ic0A68XidVbr4TMz-Fmw/edit)
-  * Results: Test Cases (in Polish). Check [the screenshot and *.pdf from TestRail here](https://drive.google.com/drive/folders/1r-xZ5aS0KUi5MpNUGq0KbFsCahOBlO8i?usp=sharing).
-  * Tools: Test Cases (in Polish). Check [the screenshot and *.pdf from TestRail here](https://drive.google.com/drive/folders/1r-xZ5aS0KUi5MpNUGq0KbFsCahOBlO8i?usp=sharing).
- 
  - My task: I have prepared 5 positive and 7 negative test cases for testing the functionality of the program for the web version of banking (iPKO).
   * Test application: [iPKO](https://www.ipko.pl/secure/ikd3/login.html)
   * Results: [5 positive and 7 negative test cases in Polish](https://drive.google.com/drive/folders/1ZXMI7T-K-FIYOztx8uU49kmPtShmP52T?usp=sharing) 
   * Tools: TestRail - TC
-
+ 
 - My task: System Level Testing of the e-learning platform, using a requirements-based approach. I used the TestRail program.
   * Test application: The e-learning platform on LMS [Requirements-based approach](https://docs.google.com/document/d/1bBLOr4IYgyiBJ2oxmcGzSq6Ic0A68XidVbr4TMz-Fmw/edit)
   * Results: Test Cases (in Polish). Check [the screenshot and *.pdf from TestRail here](https://drive.google.com/drive/folders/1r-xZ5aS0KUi5MpNUGq0KbFsCahOBlO8i?usp=sharing).
