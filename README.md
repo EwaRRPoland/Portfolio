@@ -82,7 +82,7 @@ __Git and GitHub__
 
 __Empathy,__
 
-__Precision and attention to Detai,__
+__Precision and attention to Detail,__
 
 __Communication Skills,__
 
