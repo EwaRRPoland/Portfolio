@@ -3,6 +3,7 @@ moje portfolio QA
 - [About me / O mnie](#about-me)
 - [CV](#cv)
 - [Tech Skills / Umiejętności techniczne](#tech-skills)
+- [Soft Skills / Umiejętności miękkie](#soft-skills)
 - [Tools / Narzędzia](#tools)
 - [Courses / Kursy](#courses)
 - [Examples of my work / Przykłady mojej pracy](#examples-of-my-work)
@@ -76,6 +77,18 @@ __Git and GitHub__
   * I conducted usability testing to ensure the app’s user interface was intuitive and easy to use,
   * I performed performance tests to ensure that the app runs smoothly under various conditions,
   * I know the process of recording defects and I used Jira for this task.
+
+## Soft Skills
+
+__Empathy__
+__Precision and attention to Detail__
+__Communication Skills__
+__Problem-Solving Skills__
+__Analytical Thinking__
+__Teamwork__
+__Good work organization__
+__Solving the conflict__
+__Working with stakeholders__
 
 ## Tools
 
