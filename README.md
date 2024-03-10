@@ -226,16 +226,30 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   * Tools: [Postman](https://www.postman.com/) , [Documentation from the Trello API](https://developer.atlassian.com/cloud/trello/rest/api-group-actions)
 
 ### Static testing free review technique role based review techniques
-* Based on the specification at [List Boxer](https://docs.google.com/document/d/1NUxaVw3MkHq9u3_6gccdg8mMVGW5WCE9/edit), using the technique of free reviewing, I prepared to discuss the requirements. I listed all the questions, errors, inaccuracies, ambiguities related to the requirements. I applied role-based review techniques to prepare for a discussion about the requirements. I listed all the questions/potential problems for users.[in Polish](https://drive.google.com/drive/folders/15hJaB1ef02H7dqYmnDoR8o0vd2FvI0qJ)
+
+- My task: Based on the specification, using the technique of free reviewing, I prepared to discuss the requirements. I listed all the questions, errors, inaccuracies, ambiguities related to the requirements. I applied role-based review techniques to prepare for a discussion about the requirements. I listed all the questions/potential problems for users.
+  * Test: Based on the specification at [List Boxer](https://docs.google.com/document/d/1NUxaVw3MkHq9u3_6gccdg8mMVGW5WCE9/edit)
+  * Results: [in Polish](https://drive.google.com/drive/folders/15hJaB1ef02H7dqYmnDoR8o0vd2FvI0qJ)
+  * Tools: Static testing free review technique role based review techniques
 
 ### Black box
-* Use of equivalence class techniques and boundary value techniques.[in Polish](https://drive.google.com/drive/folders/1HY6zxq0NppY1xnkbLGDsjatIo81gTPpu?usp=sharing)
+
+- My task: Use of equivalence class techniques and boundary value techniques.
+  * Results: [in Polish](https://drive.google.com/drive/folders/1HY6zxq0NppY1xnkbLGDsjatIo81gTPpu?usp=sharing)
+  * Tools: Black box - equivalence class techniques and boundary value techniques, Black Box Coverage Determination
 
 ### White box
-* I drew a block diagram based on the guidelines. The diagrams and pseudocode are prepared in a graphic program and inserted into the solution in the form of an image.[White box](https://drive.google.com/drive/folders/1v_n3VR14Wqm_CySXyNpYX7wTqq6RGDmw?usp=sharing)
+
+- My task: I drew a block diagram based on the guidelines. The diagrams and pseudocode are prepared in a graphic program and inserted into the solution in the form of an image.
+  * Results: [White box](https://drive.google.com/drive/folders/1v_n3VR14Wqm_CySXyNpYX7wTqq6RGDmw?usp=sharing)
+  * Tools: [Flowchart App](https://app.code2flow.com/) , White Box Coverage Determination
 
 ### Browser Development Tools DevTools
-* In devtools, I used the Network tab. On the page: https://www.zalando.pl, I analyzed the request (method and status), added any product to the cart, and analyzed the add-to-cart request (method and status), https://www.zalando.pl/test and I analyzed the request (method and status).[in Polish](https://docs.google.com/document/d/1iUWAlJHiz6JsZ8iNPNjnjrTa07Ph1loK/edit)
+
+- My task: In devtools, I used the Network tab. I analyzed the request (method and status), added any product to the cart, and analyzed the add-to-cart request (method and status). I went to the [test](https://www.zalando.pl/test) and I analyzed the request (method and status).
+  * Test application: [zalando](https://www.zalando.pl)
+  * Results: [in Polish](https://docs.google.com/document/d/1iUWAlJHiz6JsZ8iNPNjnjrTa07Ph1loK/edit)
+  * Tools: DevTools
 
 ## Books I have read
 __"Certyfikowany tester ISTQB poziom podstawowy"__ A. Roman, L. Stapp 2022 (in Polish) - A self-study guide based on the new syllabus from 2018.
