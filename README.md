@@ -187,7 +187,7 @@ I gained knowledge in the field of computer hardware, operating systems, electro
 
 - My task: Every person has their unique id, name, place of residence, address (street, building, and apartment number), and contact details (phone number, email address, etc.). I described the information about these people in JSON and XML format.
   * Results: [JSON and XML](https://drive.google.com/drive/folders/1ttn_DF3if6mZBo9kYAdDqlZK-6FRTlji)
-  * Tools: [Notepad++](https://notepad-plus-plus.org/), [Editor JSON](https://jsoncrack.com/editor) , [Editor XML](https://www.tutorialspoint.com/online_xml_editor.htm)
+  * Tools: [Editor JSON](https://jsoncrack.com/editor) , [Editor XML](https://www.tutorialspoint.com/online_xml_editor.htm), [Notepad++](https://notepad-plus-plus.org/)
 
 ### HTML and CSS
 
@@ -196,19 +196,34 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   * Tools: [Compiler HTML](https://onecompiler.com/html) , [Notepad++](https://notepad-plus-plus.org/)
 
 ### Databases DBeaver and SQL query language
-* Manipulating data from the DBeaver database.[Manipulating data](https://drive.google.com/drive/folders/1KelIiiQGqjzXgJw0a_1nOPJgg5zXzvnv)
+
+- My task: Manipulating data from the DBeaver database.
+  * Results: [Manipulating data](https://drive.google.com/drive/folders/1KelIiiQGqjzXgJw0a_1nOPJgg5zXzvnv)
+  * Tools: SQL query language, [DBeaver](https://dbeaver.io/) , [Educational database file](https://drive.google.com/drive/folders/1ONca4Mu6Pvm9dSTg-Cu8beQkf4-Gl0wO?usp=share_link)
 
 ### Working with the command line Terminal
-* Entering and executing operating system commands using the terminal.[Screenshots from the terminal](https://drive.google.com/drive/folders/13J6_b7aD4Pf-OkNLIeTUjgEqSAe0ynqF?usp=sharing)
+
+- My task: Entering and executing operating system commands using the terminal.
+  * Results: [Screenshots from the terminal](https://drive.google.com/drive/folders/13J6_b7aD4Pf-OkNLIeTUjgEqSAe0ynqF?usp=sharing)
+  * Tools: Working with the command line
 
 ### Git version control system and GitHub repository
-* With Git, you can track and maintain the history of file changes in a project. You can revert the project to an older version, compare, analyze, or merge changes in the repository.[Screenshots from the GIT](https://drive.google.com/drive/folders/1UOgAC_sNet-MLCdilyjLfjTKtEtnqnb4?usp=sharing)
+
+- My task: With Git, you can track and maintain the history of file changes in a project. You can revert the project to an older version, compare, analyze, or merge changes in the repository.
+  * Results: [Screenshots from the GIT](https://drive.google.com/drive/folders/1UOgAC_sNet-MLCdilyjLfjTKtEtnqnb4?usp=sharing)
+  * Tools: [Git](https://git-scm.com/) , [GitHub](https://github.com/)
 
 ### API Trello and Postman
-* Thanks to Postman and the Trello API, I was able to perform various actions, including fetching board data, creating new boards, and interacting with Trello entities in a streamlined manner.[Screenshots from the Postman and Trello](https://drive.google.com/drive/folders/1iJ5FZViGBZ80pYZTuecQNOsM2OJI6O9X)
+
+- My task: Thanks to Postman and the Trello API, I was able to perform various actions, including fetching board data, creating new boards, and interacting with Trello entities in a streamlined manner.
+  * Results: [Screenshots from the Postman and Trello](https://drive.google.com/drive/folders/1iJ5FZViGBZ80pYZTuecQNOsM2OJI6O9X)
+  * Tools: [Postman](https://www.postman.com/) , [Documentation from the Trello API](https://developer.atlassian.com/cloud/trello/rest/api-group-actions)
 
 ### Playing with Postman
-* Thanks to Postman and the Trello API, I was able to perform various actions, including fetching board data, creating new boards, and interacting with Trello entities in a streamlined manner.[Screenshots from the Postman](https://drive.google.com/drive/folders/1ENQwJj0JIxLEp0XcQXhSFVLoMaMrpPST?usp=sharing)
+
+- My task: Thanks to Postman and the Trello API, I was able to perform various actions, including fetching board data, creating new boards, and interacting with Trello entities in a streamlined manner.
+  * Results: [Screenshots from the Postman](https://drive.google.com/drive/folders/1ENQwJj0JIxLEp0XcQXhSFVLoMaMrpPST?usp=sharing)
+  * Tools: [Postman](https://www.postman.com/) , [Documentation from the Trello API](https://developer.atlassian.com/cloud/trello/rest/api-group-actions)
 
 ### Static testing free review technique role based review techniques
 * Based on the specification at [List Boxer](https://docs.google.com/document/d/1NUxaVw3MkHq9u3_6gccdg8mMVGW5WCE9/edit), using the technique of free reviewing, I prepared to discuss the requirements. I listed all the questions, errors, inaccuracies, ambiguities related to the requirements. I applied role-based review techniques to prepare for a discussion about the requirements. I listed all the questions/potential problems for users.[in Polish](https://drive.google.com/drive/folders/15hJaB1ef02H7dqYmnDoR8o0vd2FvI0qJ)
