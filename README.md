@@ -80,15 +80,23 @@ __Git and GitHub__
 
 ## Soft Skills
 
-__Empathy__
-__Precision and attention to Detail__
-__Communication Skills__
-__Problem-Solving Skills__
-__Analytical Thinking__
-__Teamwork__
-__Good work organization__
-__Solving the conflict__
-__Working with stakeholders__
+__Empathy,__
+
+__Precision and attention to Detai,__
+
+__Communication Skills,__
+
+__Problem-Solving Skills,__
+
+__Analytical Thinking,__
+
+__Teamwork,__
+
+__Good work organization,__
+
+__Solving the conflict,__
+
+__Working with stakeholders.__
 
 ## Tools
 
