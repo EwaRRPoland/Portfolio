@@ -184,10 +184,16 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   * Tools: Checklist template developed in Excel
 
 ### JSON and XML
-* Every person has their unique id, name, place of residence, address (street, building, and apartment number), and contact details (phone number, email address, etc.). I described the information about these people in JSON and XML format.[JSON and XML](https://drive.google.com/drive/folders/1ttn_DF3if6mZBo9kYAdDqlZK-6FRTlji)
+
+- My task: Every person has their unique id, name, place of residence, address (street, building, and apartment number), and contact details (phone number, email address, etc.). I described the information about these people in JSON and XML format.
+  * Results: [JSON and XML](https://drive.google.com/drive/folders/1ttn_DF3if6mZBo9kYAdDqlZK-6FRTlji)
+  * Tools: [Notepad++](https://notepad-plus-plus.org/), [Editor JSON](https://jsoncrack.com/editor) , [Editor XML](https://www.tutorialspoint.com/online_xml_editor.htm)
 
 ### HTML and CSS
-* Playing with HTML and CSS to create a simple about me page.[QA EwaRR](https://drive.google.com/file/d/1RiDAdyNBT4bYit4G7cWKHeJCiwlQXZzW/view?usp=sharing)
+
+- My task: Playing with HTML and CSS to create a simple about me page.
+  * Results: [QA EwaRR](https://drive.google.com/file/d/1RiDAdyNBT4bYit4G7cWKHeJCiwlQXZzW/view?usp=sharing)
+  * Tools: [Compiler HTML](https://onecompiler.com/html) , [Notepad++](https://notepad-plus-plus.org/)
 
 ### Databases DBeaver and SQL query language
 * Manipulating data from the DBeaver database.[Manipulating data](https://drive.google.com/drive/folders/1KelIiiQGqjzXgJw0a_1nOPJgg5zXzvnv)
