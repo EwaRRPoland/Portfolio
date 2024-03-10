@@ -135,20 +135,29 @@ I gained knowledge in the field of computer hardware, operating systems, electro
 ### TC BR and work in TestRail
 
 - My task: After I have reviewed the software documentation in the ‘Components and functionality’ tab, I have tested the product according to the written test cases.
-  * Test application:[Educational page ‘HTML testing’](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917) , [Components and functionality](https://faq-qa.m.goit.global/pl/)
-  * Results:Test Cases and Bug Reports (in Polish). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rJ4j-kHuMHlfMXFUfsmyj3cayGRgf4ia/edit#gid=911561121)
+  * Test application: [Educational page ‘HTML testing’](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917) , [Components and functionality](https://faq-qa.m.goit.global/pl/)
+  * Results: Test Cases and Bug Reports (in Polish). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rJ4j-kHuMHlfMXFUfsmyj3cayGRgf4ia/edit#gid=911561121)
   * Tools: TC and BR template developed in Excel
 
-- [Educational page ‘HTML testing’](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917) After I have reviewed the software documentation in the ‘Components and functionality’ tab, I have tested the product according to the written test cases. [Components and functionality](https://faq-qa.m.goit.global/pl/)
-  * Test Cases and Bug Reports (in Polish). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1rJ4j-kHuMHlfMXFUfsmyj3cayGRgf4ia/edit#gid=911561121)
- 
- - I conducted usability testing for the Skype program. I documented usability issues I identified in the form of bug reports, where my improvement suggestions are presented as the expected outcome.
-   * Bug Reports (in Polish). Check [the Google Sheets document here](https://drive.google.com/drive/folders/1nb9URleP31nrxdOi0Dae-v9ijmR8ELdV?usp=sharing)
+- My task: I conducted usability testing for the Skype program. I documented usability issues I identified in the form of bug reports, where my improvement suggestions are presented as the expected outcome.
+  * Test application: [Slack](https://slack.com/)
+  * Results: Bug Reports (in Polish). Check [the Google Sheets document here](https://drive.google.com/drive/folders/1nb9URleP31nrxdOi0Dae-v9ijmR8ELdV?usp=sharing)
+  * Tools: BR template developed in Excel
 
-- [System Level Testing of the e-learning platform, using a requirements-based approach](https://docs.google.com/document/d/1bBLOr4IYgyiBJ2oxmcGzSq6Ic0A68XidVbr4TMz-Fmw/edit) I used the TestRail program.
-  * Test Cases (in Polish). Check [the screenshot and *.pdf from TestRail here](https://drive.google.com/drive/folders/1r-xZ5aS0KUi5MpNUGq0KbFsCahOBlO8i?usp=sharing).
+ - My task: System Level Testing of the e-learning platform, using a requirements-based approach. I used the TestRail program.
+  * Test application: The e-learning platform on LMS [Requirements-based approach](https://docs.google.com/document/d/1bBLOr4IYgyiBJ2oxmcGzSq6Ic0A68XidVbr4TMz-Fmw/edit)
+  * Results: Test Cases (in Polish). Check [the screenshot and *.pdf from TestRail here](https://drive.google.com/drive/folders/1r-xZ5aS0KUi5MpNUGq0KbFsCahOBlO8i?usp=sharing).
+  * Tools: TestRail - TC
  
- - [I have prepared 5 positive and 7 negative test cases for testing the functionality of the program for the web version of banking (iPKO).](https://drive.google.com/drive/folders/1ZXMI7T-K-FIYOztx8uU49kmPtShmP52T?usp=sharing) I used the TestRail program. Test Cases (in Polish)
+ - My task: I have prepared 5 positive and 7 negative test cases for testing the functionality of the program for the web version of banking (iPKO).
+  * Test application: [iPKO](https://www.ipko.pl/secure/ikd3/login.html)
+  * Results: [5 positive and 7 negative test cases in Polish](https://drive.google.com/drive/folders/1ZXMI7T-K-FIYOztx8uU49kmPtShmP52T?usp=sharing) 
+  * Tools: TestRail - TC
+
+- My task: 
+  * Test application:
+  * Results:
+  * Tools:
   
 ### Qase TC and work in Jira BR
 
