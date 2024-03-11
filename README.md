@@ -31,7 +31,7 @@ Although I still can’t do automated tests, I am motivated to learn and develop
 I am interested in the latest trends and methodologies in the field of quality assurance, such as Agile, DevOps, and Continuous Testing. If you are looking for a QA Engineer who has an eye for detail, analytical skills, and a passion for creating high-quality products, please feel free to contact me.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1xA8WSW2_zwF0SQF5yP4H86uLZVwLo0Kx/view?usp=drive_link).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1xA8WSW2_zwF0SQF5yP4H86uLZVwLo0Kx/view?usp=sharing).
 
 ## Tech Skills
 
