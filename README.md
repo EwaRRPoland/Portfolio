@@ -26,9 +26,14 @@ moje portfolio QA
 
 ## About me
 
-I am a Junior QA Engineer with a strong passion for learning and continuous improvement. My strengths include critical, analytical thinking and questioning, as well as curiosity and meticulousness. Over the years of my professional career, I have coordinated teams, working on improving the quality of work of my own, my colleagues, and the entire organization. I regularly reported and drew conclusions for further work, providing such feedback at meetings. My passion has become testing various aspects of digital products, such as functionality, performance, usability, and security. I have basic knowledge and practical experience in testing HTML, SQL, API, XML, JSON. I know various testing methods, types of tests, and techniques. I can use tools like TestRail, DBeaver, Postman, DevTools, Jira, Qase, Trello.
-Although I still can’t do automated tests, I am motivated to learn and develop in this field. This approach to work is nothing new for me, as I have always focused on continuous improvement. I enjoy working in a team and collaborating with others. I am looking for a company where I could use my skills and become a valuable team member.
-I am interested in the latest trends and methodologies in the field of quality assurance, such as Agile, DevOps, and Continuous Testing. If you are looking for a QA Engineer who has an eye for detail, analytical skills, and a passion for creating high-quality products, please feel free to contact me.
+I am a Junior QA Engineer with a strong passion for learning and continuous improvement. My strengths include critical, analytical thinking and questioning, as well as curiosity and meticulousness. 
+ * Over the years of my professional career, I have coordinated teams, working on improving the quality of work of my own, my colleagues, and the entire organization. I regularly reported and drew conclusions for further work, providing such feedback at meetings.
+ * My passion has become testing various aspects of digital products, such as functionality, performance, usability, and security. I have basic knowledge and practical experience in testing HTML, SQL, API, XML, JSON.
+ * I know various testing methods, types of tests, and techniques. I can use tools like TestRail, DBeaver, Postman, DevTools, Jira, Qase, Trello.
+Although I still can’t do automated tests, I am motivated to learn and develop in this field. This approach to work is nothing new for me, as I have always focused on continuous improvement.
+ * I enjoy working in a team and collaborating with others. I am looking for a company where I could use my skills and become a valuable team member.
+ * I am interested in the latest trends and methodologies in the field of quality assurance, such as Agile, DevOps, and Continuous Testing.
+ * If you are looking for a QA Engineer who has an eye for detail, analytical skills, and a passion for creating high-quality products, please feel free to contact me.
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1xA8WSW2_zwF0SQF5yP4H86uLZVwLo0Kx/view?usp=sharing).
