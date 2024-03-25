@@ -22,13 +22,12 @@ moje portfolio QA
   * [White box](#white-box)
   * [Browser Development Tools DevTools](#browser-development-tools-devtools)
 - [Experience / Doświadczenie](#experience)
+  * [Scrum Master and Tester A11Y](#scrum-master-and-tester-A11Y)
   * [Coordinator for the Implementation of Educational Tasks](#coordinator-for-the-implementation-of-educational-tasks)
   * [Chairman of the Quality Assessment Team](#chairman-of-the-quality-assessment-team)
   * [Chairman of the science team](#chairman-of-the-science-team)
   * [Program Coordinator](#program-coordinator)
   * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
- 
-  
 - [Books I have read](#books-i-have-read)
 
 ## About me
@@ -296,6 +295,19 @@ I gained knowledge in the field of computer hardware, operating systems, electro
 
 ## Experience
 
+### Scrum Master and Tester A11Y
+- In March 2024
+
+In the "Kapu$ta" project, an educational application developed by GoIT, I played the double role of Scrum Master and Tester A11Y. The application is designed to track monthly income and expenses broken down into individual expense categories and incoming transactions.
+
+As a Scrum Master, my responsibilities included conducting daily stand-ups to plan and report on the team's work. I created a Trello board for the team and used Google Meet for our stand-ups. I monitored the availability of tasks for all team members and the time needed to complete them. I ensured the transparency of activities and met deadlines.
+
+In addition to facilitating communication, collaboration and conflict resolution within the team, I ensured that the team adhered to Scrum principles and practices. I prepared comprehensive reports and presentations for defense.
+
+My strong analytical thinking skills and attention to detail were crucial in my role as a tester. I conducted thorough accessibility tests using additional tools. My effective communication skills were crucial in reporting bugs.
+
+In both roles, my ability to work effectively both individually and in a team played a key role in the successful implementation of the project. My empathetic approach and ability to listen effectively created a positive and productive atmosphere in the team. Overall, this experience further strengthened my skills and expertise in project management and quality assurance.
+
 ### Coordinator for the Implementation of Educational Tasks 
 - "AWANS" Limited Liability Company, Katowice,  Poland
 - From April 2017 to January 2018
@@ -329,7 +341,6 @@ Overall, my experience as a Quality Assessment Team Chair equipped me with a com
 - over a decade,
 - Katowice, Poland
 
-
 As head of the Science Department, I had the opportunity to work closely with teachers, coordinating their work and ensuring cross-curricular correlations. My precision and attention to detail played a key role in planning the team's work, writing reports and summaries, and analyzing the quality of teaching by examining the results of a national exam assessing the teaching of these subjects.
 
 My empathetic approach and ability to listen effectively allowed me to understand and respond to the team's needs, creating a harmonious work environment. I was the creator of the science festival and the initiator of activities that developed the team itself. My organizational skills and time management skills played a key role in planning and implementing these initiatives.
@@ -337,9 +348,8 @@ My empathetic approach and ability to listen effectively allowed me to understan
 I also organized training, presented our team at conferences and served as a member of the director's advisory board. In these positions, my excellent communication skills and the ability to work effectively individually and in a team were crucial. My decision-making skills and ability to identify and solve problems ensured the successful completion of these tasks.
 
 ### Program Coordinator
-- of the project co-financed by the European Union in Katowice, Poland.
+- __of the project co-financed by the European Union in Katowice, Poland.__
 - From September 2010 to July 2012
-
 
 During this period, I demonstrated great precision and attention to detail in coordinating the project. My strong analytical thinking skills were crucial in identifying and solving problems that arose during the project lifecycle.
 
