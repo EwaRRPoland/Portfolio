@@ -23,6 +23,7 @@ moje portfolio QA
   * [Browser Development Tools DevTools](#browser-development-tools-devtools)
 - [Experience / Doświadczenie](#experience)
   * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
+  * [Program Coordinator 1](#program-coordinator-1)
   
 - [Books I have read](#books-i-have-read)
 
@@ -290,6 +291,23 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   * Tools: DevTools
 
 ## Experience
+
+### Program Coordinator 1
+- of the project co-financed by the European Union in Katowice, Poland.
+- From September 2010 to July 2012
+
+
+During this period, I demonstrated great precision and attention to detail in coordinating the project. My strong analytical thinking skills were crucial in identifying and solving problems that arose during the project lifecycle.
+
+Working both individually and in a team, I effectively managed conflicts and made critical decisions that significantly contributed to the successful implementation of project tasks. My excellent communication skills allowed me to work effectively with stakeholders, ensuring that all project requirements were met on time and within budget.
+
+My empathetic approach has been instrumental in understanding and meeting the needs of team members and stakeholders. This, combined with my ability to listen effectively, has enabled me to create a harmonious work environment.
+
+I used my organizational and time management skills to ensure that all project activities were planned and executed effectively. My creative thinking skills played a key role in developing innovative solutions to design challenges.
+
+Additionally, my role was to coordinate programs co-financed by the European Union. It required a meticulous approach, meeting strict deadlines and navigating through extensive bureaucracy. My meticulous attention to detail and effective time management skills ensured compliance with all EU regulations and the successful implementation of the project.
+
+Overall, my experience as a project program coordinator equipped me with a comprehensive set of skills that I continue to use in my professional career.
 
 ### Teacher of physics mathematics and computer science 
 - Various types of schools, including for adults
