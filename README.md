@@ -22,8 +22,8 @@ moje portfolio QA
   * [White box](#white-box)
   * [Browser Development Tools DevTools](#browser-development-tools-devtools)
 - [Experience / Doświadczenie](#experience)
-  * []()
-  * [Program Coordinator 1](#program-coordinator-1)
+  * [Coordinator for the Implementation of Educational Tasks](#coordinator-for-the-implementation-of-educational-tasks)
+  * [Program Coordinator](#program-coordinator)
   * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
  
   
@@ -294,7 +294,20 @@ I gained knowledge in the field of computer hardware, operating systems, electro
 
 ## Experience
 
-### Program Coordinator 1
+### Coordinator for the Implementation of Educational Tasks 
+- "AWANS" Limited Liability Company, Katowice,  Poland
+- From April 2017 to January 2018
+
+This role involved working with adult learners and creating documentation for projects co-financed by the European Union.
+
+My extensive experience, discipline, and familiarity with EU projects as both an executor and coordinator were crucial in this role. I was responsible for understanding and navigating the intricacies associated with EU documentation and the meticulousness required by the EU.
+
+My precision and attention to detail were key in ensuring that all project documentation was accurate and compliant with EU regulations. My strong analytical thinking skills and ability to identify and solve problems were instrumental in managing the complexities of EU-funded projects.
+
+Working both individually and as part of a team, I effectively managed conflicts and made critical decisions that significantly contributed to the successful implementation of educational tasks. My excellent communication skills allowed me to liaise effectively with stakeholders, ensuring that all project requirements were met on time and within budget.
+My empathetic approach was instrumental in understanding and addressing the needs of adult learners. This, coupled with my effective listening skills, enabled me to foster a conducive learning environment. My organizational skills and time management abilities ensured smooth project operations and effective learning.
+
+### Program Coordinator
 - of the project co-financed by the European Union in Katowice, Poland.
 - From September 2010 to July 2012
 
