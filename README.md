@@ -21,8 +21,8 @@ moje portfolio QA
   * [Black box](#black-box)
   * [White box](#white-box)
   * [Browser Development Tools DevTools](#browser-development-tools-devtools)
- 
 - [Experience / Doświadczenie](#experience)
+  *[Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
   
 - [Books I have read](#books-i-have-read)
 
@@ -290,6 +290,19 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   * Tools: DevTools
 
 ## Experience
+
+### Teacher of physics mathematics and computer science 
+- Various types of schools, including for adults
+- September 2001 - present
+
+As a dedicated educator with almost twenty years of experience, I teach students knowledge of physics, mathematics and computer science, developing their curiosity and critical thinking skills. My empathetic approach has helped me understand the diverse needs of students and meet them, creating an inclusive classroom environment.
+
+My strong analytical thinking skills and precision have been instrumental in developing comprehensive teaching plans and ensuring that each topic is thoroughly understood by all students. My attention to detail has further allowed me to identify and meet each student's unique learning needs.
+
+In addition to physics and math, I also taught computer science, where I used my decision-making skills to successfully integrate technology into the curriculum. My organizational skills and time management skills ensured the smooth functioning of the class and effective learning.
+I used my strong communication skills to explain complex concepts in a simple and understandable way. I effectively resolve conflicts in the classroom, ensuring a harmonious learning environment. I encouraged students to think critically and creatively about problems, developing their problem-solving skills.
+
+My effective listening skills allowed me to understand and respond to students' concerns and queries. I have worked effectively with parents, other teachers, and school administration to improve students' overall educational experiences.
 
 ## Books I have read
 ["Certyfikowany tester ISTQB poziom podstawowy"](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm?abpar1=desktop&abpar2=4943677.0.&abpar3=book.details.main.list.promoted&abpcid=41&abpid=7084&bb_coid=183756298&bb_id=17929&bbclid=ae1c816a-2f24-4dea-b331-2578add1dd35#format/d) A. Roman, L. Stapp 2022 (in Polish) - A self-study guide based on the new syllabus from 2018.
