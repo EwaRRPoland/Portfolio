@@ -23,6 +23,7 @@ moje portfolio QA
   * [Browser Development Tools DevTools](#browser-development-tools-devtools)
 - [Experience / Doświadczenie](#experience)
   * [Coordinator for the Implementation of Educational Tasks](#coordinator-for-the-implementation-of-educational-tasks)
+  * [Chairman of the science team](#chairman-of-the-science-team)
   * [Program Coordinator](#program-coordinator)
   * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
  
@@ -306,6 +307,17 @@ My precision and attention to detail were key in ensuring that all project docum
 
 Working both individually and as part of a team, I effectively managed conflicts and made critical decisions that significantly contributed to the successful implementation of educational tasks. My excellent communication skills allowed me to liaise effectively with stakeholders, ensuring that all project requirements were met on time and within budget.
 My empathetic approach was instrumental in understanding and addressing the needs of adult learners. This, coupled with my effective listening skills, enabled me to foster a conducive learning environment. My organizational skills and time management abilities ensured smooth project operations and effective learning.
+
+### Chairman of the science team
+- over a decade,
+- Katowice, Poland
+
+
+As head of the Science Department, I had the opportunity to work closely with teachers, coordinating their work and ensuring cross-curricular correlations. My precision and attention to detail played a key role in planning the team's work, writing reports and summaries, and analyzing the quality of teaching by examining the results of a national exam assessing the teaching of these subjects.
+
+My empathetic approach and ability to listen effectively allowed me to understand and respond to the team's needs, creating a harmonious work environment. I was the creator of the science festival and the initiator of activities that developed the team itself. My organizational skills and time management skills played a key role in planning and implementing these initiatives.
+
+I also organized training, presented our team at conferences and served as a member of the director's advisory board. In these positions, my excellent communication skills and the ability to work effectively individually and in a team were crucial. My decision-making skills and ability to identify and solve problems ensured the successful completion of these tasks.
 
 ### Program Coordinator
 - of the project co-financed by the European Union in Katowice, Poland.
