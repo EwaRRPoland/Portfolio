@@ -21,6 +21,8 @@ moje portfolio QA
   * [Black box](#black-box)
   * [White box](#white-box)
   * [Browser Development Tools DevTools](#browser-development-tools-devtools)
+ 
+- [Experience / Doświadczenie](#)
   
 - [Books I have read](#books-i-have-read)
 
@@ -84,6 +86,8 @@ __Git and GitHub__
   * I know the process of recording defects and I used Jira for this task.
 
 ## Soft Skills
+
+You can find examples of the described skills in the [Experience / Doświadczenie](#experience) section.
 
 __Empathy,__
  
@@ -284,6 +288,8 @@ I gained knowledge in the field of computer hardware, operating systems, electro
   * Test application: [zalando](https://www.zalando.pl)
   * Results: [in Polish](https://docs.google.com/document/d/1iUWAlJHiz6JsZ8iNPNjnjrTa07Ph1loK/edit)
   * Tools: DevTools
+
+## Experience
 
 ## Books I have read
 ["Certyfikowany tester ISTQB poziom podstawowy"](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm?abpar1=desktop&abpar2=4943677.0.&abpar3=book.details.main.list.promoted&abpcid=41&abpid=7084&bb_coid=183756298&bb_id=17929&bbclid=ae1c816a-2f24-4dea-b331-2578add1dd35#format/d) A. Roman, L. Stapp 2022 (in Polish) - A self-study guide based on the new syllabus from 2018.
