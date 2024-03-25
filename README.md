@@ -22,8 +22,10 @@ moje portfolio QA
   * [White box](#white-box)
   * [Browser Development Tools DevTools](#browser-development-tools-devtools)
 - [Experience / Doświadczenie](#experience)
-  * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
+  * []()
   * [Program Coordinator 1](#program-coordinator-1)
+  * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
+ 
   
 - [Books I have read](#books-i-have-read)
 
