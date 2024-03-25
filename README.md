@@ -23,6 +23,7 @@ moje portfolio QA
   * [Browser Development Tools DevTools](#browser-development-tools-devtools)
 - [Experience / Doświadczenie](#experience)
   * [Coordinator for the Implementation of Educational Tasks](#coordinator-for-the-implementation-of-educational-tasks)
+  * [Chairman of the Quality Assessment Team](#chairman-of-the-quality-assessment-team)
   * [Chairman of the science team](#chairman-of-the-science-team)
   * [Program Coordinator](#program-coordinator)
   * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
@@ -307,6 +308,22 @@ My precision and attention to detail were key in ensuring that all project docum
 
 Working both individually and as part of a team, I effectively managed conflicts and made critical decisions that significantly contributed to the successful implementation of educational tasks. My excellent communication skills allowed me to liaise effectively with stakeholders, ensuring that all project requirements were met on time and within budget.
 My empathetic approach was instrumental in understanding and addressing the needs of adult learners. This, coupled with my effective listening skills, enabled me to foster a conducive learning environment. My organizational skills and time management abilities ensured smooth project operations and effective learning.
+
+### Chairman of the Quality Assessment Team
+- over a decade,
+- Katowice, Poland
+
+As the Chairman of the Quality Assessment Team at the school, I was responsible for supervising the quality of work at the facility. This role required me to undergo external training, during which I learned the methodology of proper, standardized quality measurement.
+
+I managed a team of people responsible for specific areas. They were required to conduct surveys and various documentation in specific areas. All areas were in line with the ministry's plan for the year and curriculum guidelines.
+
+My responsibilities included monitoring research, creating consolidated reports, drawing conclusions for further work and presenting reports with results to the council. The results of measuring the quality of work in the institution were an integral part of the summary of the organization's work.
+
+In this position, my strong analytical thinking skills and precision were crucial in monitoring research and creating detailed reports. My decision-making skills were crucial in drawing conclusions for further work. My excellent communication skills have enabled me to present reports effectively to the board.
+
+Working both individually and in a team, I effectively managed conflicts and ensured the successful completion of tasks. My empathetic approach and ability to listen effectively allowed me to understand and respond to the team's needs, creating a harmonious work environment.
+
+Overall, my experience as a Quality Assessment Team Chair equipped me with a comprehensive set of skills that I continue to use in my professional career.
 
 ### Chairman of the science team
 - over a decade,
