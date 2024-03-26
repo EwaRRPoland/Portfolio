@@ -47,6 +47,21 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ## Tech Skills
 
 You can find examples of the described skills in the [Examples of my work / Przykłady mojej pracy](#examples-of-my-work) section.
+  * [TC BR and work in TestRail](#tc-br-and-work-in-testrail)
+  * [Qase TC and work in Jira BR](#qase-tc-and-work-in-jira-br)
+  * [Checklists](#checklists)
+  * [JSON and XML](#json-and-xml)
+  * [HTML and CSS](#html-and-css)
+  * [Databases DBeaver and SQL query language](#databases-dbeaver-and-sql-query-language)
+  * [Working with the command line Terminal](#working-with-the-command-line-terminal)
+  * [Git version control system and GitHub repository](#git-version-control-system-and-github-repository)
+  * [API Trello and Postman](#api-trello-and-postman)
+  * [Playing with Postman](#playing-with-postman)
+  * [Static testing free review technique role based review techniques](#static-testing-free-review-technique-role-based-review-techniques)
+  * [Black box](#black-box)
+  * [White box](#white-box)
+  * [Browser Development Tools DevTools](#browser-development-tools-devtools)
+
 
 __Manual testing__
   * I can perform manual functional and usability testing of web applications,
