@@ -114,31 +114,19 @@ You can find examples of the described skills in the [Experience / Doświadczeni
   * [Program Coordinator](#program-coordinator)
   * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
 
-__Empathy,__
- 
-__Precision and attention to Detail,__
- 
-__Ability to work effectively individually and in a team,__
- 
-__Communication skills,__
- 
-__Conflict management skills,__
- 
-__Critical and creative thinking skills,__
- 
-__Decision-making skills,__
- 
-__Ability to identify and solve problems,__
- 
-__Effective listening skills,__
- 
-__Organizational skills,__
- 
-__Strong analytical thinking skills,__
- 
-__Time management skills,__
-
-__Working with stakeholders.__
+  * __Empathy,__
+  * __Precision and attention to Detail,__
+  * __Ability to work effectively individually and in a team,__
+  * __Communication skills,__
+  * __Conflict management skills,__
+  * __Critical and creative thinking skills,__
+  * __Decision-making skills,__
+  * __Ability to identify and solve problems,__
+  * __Effective listening skills,__
+  * __Organizational skills,__
+  * __Strong analytical thinking skills,__
+  * __Time management skills,__
+  * __Working with stakeholders.__
 
 ## Tools
 
