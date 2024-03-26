@@ -114,6 +114,8 @@ You can find examples of the described skills in the [Experience / Doświadczeni
   * [Program Coordinator](#program-coordinator)
   * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
 
+
+
   * __Empathy,__
   * __Precision and attention to Detail,__
   * __Ability to work effectively individually and in a team,__
