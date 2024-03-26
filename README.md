@@ -107,6 +107,12 @@ __Git and GitHub__
 ## Soft Skills
 
 You can find examples of the described skills in the [Experience / Doświadczenie](#experience) section.
+  * [Scrum Master and Tester A11Y](#scrum-master-and-tester-A11Y)
+  * [Coordinator for the Implementation of Educational Tasks](#coordinator-for-the-implementation-of-educational-tasks)
+  * [Chairman of the Quality Assessment Team](#chairman-of-the-quality-assessment-team)
+  * [Chairman of the science team](#chairman-of-the-science-team)
+  * [Program Coordinator](#program-coordinator)
+  * [Teacher of physics mathematics and computer science](#teacher-of-physics-mathematics-and-computer-science)
 
 __Empathy,__
  
