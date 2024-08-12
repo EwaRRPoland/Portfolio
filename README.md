@@ -42,7 +42,7 @@ Although I still can’t do automated tests, I am motivated to learn and develop
  * If you are looking for a QA Engineer who has an eye for detail, analytical skills, and a passion for creating high-quality products, please feel free to contact me.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1xA8WSW2_zwF0SQF5yP4H86uLZVwLo0Kx/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1trwkLlvY7AndVX5zgk27bd7Cr1h8imjn/view?usp=drive_link).
 
 ## Tech Skills
 
